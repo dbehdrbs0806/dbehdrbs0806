@@ -1,6 +1,6 @@
 
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=blue)
+
 <!--
 **dbehdrbs0806/dbehdrbs0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
