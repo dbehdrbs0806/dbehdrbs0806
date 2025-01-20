@@ -12,3 +12,6 @@
 - **대학교**: Soonchunhyang University, Department of Computer Engineering  
 - **동아리**: GDSC(Google Developer Student Clubs), Member(2023 ~ 2024)
 - **연구실**: CSLab(ComputerSystem Lab), Department of Computer Engineering
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbehdrbs0806)](https://solved.ac/dbehdrbs0806/)
