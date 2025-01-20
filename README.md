@@ -1,5 +1,5 @@
 
-📚
+📚 동균 Dong Gyun
 ---
 ## 🛠️ Skills
 - **Languages & Frameworks**: Java, Python, Spring Boot, Spring Cloud, Android Development
