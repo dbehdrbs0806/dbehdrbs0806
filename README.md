@@ -9,4 +9,4 @@
 ## 📚 Experience
 - **University**: Soonchunhyang University, Department of Computer Engineering  
 - **Club**: Google Developer Student Clubs (GDSC), Member (2023 ~ 2024)
-- **Research Lab**: ComputerSsystemLab, Department of Computer Engineering
+- **Research Lab**: ComputerSystemLab, Department of Computer Engineering
