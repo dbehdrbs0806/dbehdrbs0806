@@ -11,4 +11,4 @@
 ## 📚 Experience
 - **대학교**: Soonchunhyang University, Department of Computer Engineering  
 - **동아리**: Google Developer Student Clubs (GDSC), Member (2023 ~ 2024)
-- **연구실**: ComputerSystemLab, Department of Computer Engineering
+- **연구실**: CSLab(ComputerSystem Lab), Department of Computer Engineering
