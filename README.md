@@ -3,6 +3,8 @@
 
 동균 Dong Gyun
 ---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbehdrbs0806)](https://solved.ac/dbehdrbs0806/)
+
 ## 🛠️ Skills
 - **언어 및 프레임워크**: Java, Python, Spring Boot, Spring Cloud, Android Development
 - **클라우드 및 DevOps**: AWS, Docker, Kubernetes, CI/CD(Jenkins, Github Actions)
@@ -14,4 +16,4 @@
 - **연구실**: CSLab(ComputerSystem Lab), Department of Computer Engineering
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbehdrbs0806)](https://solved.ac/dbehdrbs0806/)
+
