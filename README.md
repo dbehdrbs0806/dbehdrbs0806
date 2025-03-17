@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 - **언어 및 프레임워크**: Java, Python, Spring Boot, Spring Cloud, Android Development
-- **클라우드 및 DevOps**: AWS, Docker, Kubernetes, CI/CD(Jenkins, Github Actions)
+- **클라우드 및 DevOps**: AWS, Docker, Kubernetes, CI/CD(Jenkins)
 - **기타**: Oracle, MongoDB, MariaDB
 
 ## 📚 Experience
