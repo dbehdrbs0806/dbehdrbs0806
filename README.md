@@ -11,9 +11,9 @@
 - **기타**: Oracle, MongoDB, MariaDB
 
 ## 📚 Experience
-- **대학교**: Soonchunhyang University, Department of Computer Engineering  
-- **동아리**: GDSC(Google Developer Student Clubs), Member(2023 ~ 2024)
-- **연구실**: CSLab(ComputerSystem Lab), Department of Computer Engineering
+- **대학교**: 순천향대학교 컴퓨터공학과(2020.02 ~ 2026.02)
+- **동아리**: GDSC(Google Developer Student Clubs) / Member(2023.06 ~ 2024.06)
+- **연구실**: CSLab(ComputerSystem Lab) / 컴퓨터공학과(2024.01 ~ 2025.07)
 
 
 
