@@ -9,7 +9,7 @@
 - **언어 및 프레임워크**: Java, Python, Spring Boot, Spring Cloud, Android Development
 - **클라우드 및 DevOps**: AWS, Docker, Kubernetes, CI/CD(Jenkins)
 - **DB**: Oracle, MongoDB, MariaDB, ELK
-- **기타**: n8n
+- **기타**: n8n, VCF(VMware Cloud Foundation)
 
 ## 활동
 - **대학교**: 순천향대학교 컴퓨터공학과(2020.02 ~ 2026.02)
