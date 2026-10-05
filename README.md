@@ -27,7 +27,7 @@ Email: [a67422830@gmail.com](mailto:a67422830@gmail.com)
 | **Project** | **Description**                                             | **GitHub** |
 | ----------- |-------------------------------------------------------------| ---------- |
 | **Kubernetes 환경에서 ZeroTrust 구조 구현** | Kubernetes 환경에서 Cilium과 Istio를 활용한 ZeroTrust 보안 원칙 적용 프로젝트  | [Repo](https://github.com/dbehdrbs0806/ZeroTrust-k8s) |
-| **VMware를 사용한 고가용성 이중화 데이터센터 구축 실습** | VMware 기반 중첩 가상화를 통한 인프라 구성과 이중화 데이터 센터 구축 프로젝트             | [Repo](https://github.com/dbehdrbs0806/VMware-TeamLab) |
+| **VMware를 사용한 가상 데이터센터의 이중화 구축** | VMware 기반 중첩 가상화를 통한 인프라 구성과 이중화 데이터 센터 구축 프로젝트             | [Repo](https://github.com/dbehdrbs0806/VMware-TeamLab) |
 | **n8n 기반 주식 정보 분석 및 매매 자동화 시스템** | n8n을 활용해 주식 관련 API와 뉴스 수집, 저장 및 알림 발송의 업무 흐름을 자동화 파이프라인 프로젝트 | [Repo](https://github.com/N8N-jujudong/n8n-jujudong) |
 | **ELK 기반 우리카드 소비 데이터 분석** | 우리카드 데이터를 ELK를 활용해 소비 패턴을 분석하고 시각화한 프로젝트                    | [Repo](https://github.com/FISA-Team-CE/elk-project) |
 | **장애인을 위한 보행자 지원 앱** | 장애 유형별 맞춤 경로를 제공하는 학교 내 길 안내 앱 서비스                          | [Repo](https://github.com/dbehdrbs0806/Pedestrian_application_for_disabled) |
